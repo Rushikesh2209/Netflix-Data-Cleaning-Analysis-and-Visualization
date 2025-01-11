@@ -1,5 +1,7 @@
 # Netflix Data: Cleaning, Analysis and Visualization
 
+![screenshot1](https://github.com/Rushikesh2209/Netflix-Data-Cleaning-Analysis-and-Visualization/blob/main/netflix.jpg)
+
 ## Context:
  #### This dataset provides a unique opportunity to delve into the factors that shape the popularity of Netflix content and develop a robust model for predicting audience preferences.
 ## Description:
